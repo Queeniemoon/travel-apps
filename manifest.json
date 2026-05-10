@@ -1,0 +1,21 @@
+{
+  "name": "家族旅遊記帳",
+  "short_name": "旅遊記帳",
+  "description": "家族旅遊共同記帳 APP",
+  "start_url": "/travel-apps/",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#2563EB",
+  "icons": [
+    {
+      "src": "/travel-apps/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/travel-apps/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
